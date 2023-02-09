@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 25px;
+}
+.hidden {
+  display: none;
+}
+button.btn{
+   margin: 20px;
+   padding: 15px;
+}
+.submit{
+display: flex;
+justify-content: center;
+}
+#req{
+  color: red;
+  font-size: 26px;
+  font-weight: 600;
+}
